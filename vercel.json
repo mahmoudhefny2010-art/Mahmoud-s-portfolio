@@ -1,6 +1,3 @@
 {
-  "name": "mahmoud-hefny-portfolio",
-  "version": 1.0,
-  "buildCommand": "echo 'No build command needed for static site'",
-  "outputDirectory": "."
+  "version": 2
 }
